@@ -1,6 +1,3 @@
-Here's the complete README content in a single code block. Copy everything inside the triple backticks and paste it directly into GitHub's README editor.
-
-```markdown
 # 🚀 Vless Selector – Massively Parallel V2Ray Config Selector
 
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
@@ -143,3 +140,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 - The V2Ray community for VLESS protocol.
 
  
+
