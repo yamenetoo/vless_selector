@@ -2,13 +2,9 @@
 """
 V2Ray MASSIVELY PARALLEL Config Selector + CONTINUOUS OPTIMIZATION
 ====================================================================
-✅ FIXED: XRAY_PATH now points to xray.exe file (not folder)
-✅ FIXED: All URLs stripped of trailing spaces
-✅ FIXED: Better error reporting for failed tests
-✅ FIXED: Safer default batch sizes
-✅ Auto-downloads Xray if missing
-
 Requirements: pip install requests pysocks
+Add Proxy SwitchyOmega 3 (ZeroOmega) to chrome :
+https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped
 """
 
 import os
